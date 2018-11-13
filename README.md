@@ -393,7 +393,7 @@ Authentication:
 
 List of employees:
 
-![alt text](https://raw.githubusercontent.com/marco-polo-leyva/Employee/develop/images/list1.png)
+![alt text](https://raw.githubusercontent.com/marco-polo-leyva/Employee/develop/images/list2.png)
 
 
 
