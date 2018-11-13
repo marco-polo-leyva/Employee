@@ -386,7 +386,7 @@ FLOW OF SCREENS
 
 Authentication:
 
-
+![alt text](https://raw.githubusercontent.com/marco-polo-leyva/Employee/develop/images/log1.png)
 
 List of employees:
 
