@@ -83,6 +83,8 @@ CHARACTERISTICS
    For the integration of html and javascript the decision was made to use the VueJS framework because I think it integrates the best of React and Angular, it is a progressive framework, use of templates and components, it is also very easy to use and facilitates the development.
    The consumption of webservices was done with AXIOS taking advantage of the advantages that it has to consume webservices RESTFull with Ajax and its simplicity to use it
    
+   Note: The pagination is not implemented in the frontend, the webservice already receives the parameter for pagination.
+   
    
    
 WEBSERVICES
