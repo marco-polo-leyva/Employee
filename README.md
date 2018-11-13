@@ -388,21 +388,30 @@ Authentication:
 
 ![alt text](https://raw.githubusercontent.com/marco-polo-leyva/Employee/develop/images/log1.png)
 
+
+![alt text](https://raw.githubusercontent.com/marco-polo-leyva/Employee/develop/images/log2.png)
+
 List of employees:
+
+![alt text](https://raw.githubusercontent.com/marco-polo-leyva/Employee/develop/images/list1.png)
 
 
 
 Employee Registration:
 
+![alt text](https://raw.githubusercontent.com/marco-polo-leyva/Employee/develop/images/alta1.png)
+
+![alt text](https://raw.githubusercontent.com/marco-polo-leyva/Employee/develop/images/alta2.png)
+
+![alt text](https://raw.githubusercontent.com/marco-polo-leyva/Employee/develop/images/alta3.png)
 
 
-Employee Edition:
 
 
-
-Discharge from the Employee:  
+Delete from the Employee:  
        
        
+![alt text](https://raw.githubusercontent.com/marco-polo-leyva/Employee/develop/images/del1.png)
        
        
    
